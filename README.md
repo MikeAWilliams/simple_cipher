@@ -1,2 +1,2 @@
 # simple_cipher
-some simple ciphers
+rotation and substitution ciphers
